@@ -1,1 +1,1 @@
-node.js作为服务端技术
+node.js server-side
